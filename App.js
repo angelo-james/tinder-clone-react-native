@@ -28,9 +28,9 @@ export default class App extends React.Component {
         </Text>
 
         <Button
-          icon={{ name: "code" }}
+          icon={{ name: "person" }}
           backgroundColor="black"
-          title="View"
+          title="Profile"
         >
         </Button>
       </Card>
